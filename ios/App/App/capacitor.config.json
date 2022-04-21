@@ -1,0 +1,6 @@
+{
+	"appId": "com.hhIonicCapacitor.app",
+	"appName": "ionic-capacitor",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
